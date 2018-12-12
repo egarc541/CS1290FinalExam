@@ -3,8 +3,8 @@
 # Part 1 - DP (Recursive Solution)
 
 
-dp[i][j] = piles[i]
-dp[i][i+j] = max(piles[i] - dp[i+1][i+j], piles[i+j] - dp[i][i+j-1]
+dp[i][j] = piles[i]<br>
+dp[i][i+j] = max(piles[i] - dp[i+1][i+j], piles[i+j] - dp[i][i+j-1]<br>
 dp[0][n-1] > 0
 
 # Part 2 - Explanation
