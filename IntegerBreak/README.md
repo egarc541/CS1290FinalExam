@@ -1,4 +1,4 @@
-# 1. Integer Break
+# 7. Integer Break
 CS1290 Final Exam
 
 # Part 1
