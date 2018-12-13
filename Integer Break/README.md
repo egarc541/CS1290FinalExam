@@ -4,7 +4,8 @@
 
 dp[n] = dp[n+1]<br>
 dp[1] = 1<br>
-dp[i] = Math.max(Math.max(dp[j],j) * Math.max(i-j, dp[i-j]),dp[i)
+dp[i] = maxdp
+maxdp = Math.max(Math.max(dp[j],j) * Math.max(i-j, dp[i-j]),dp[i)
 
 # Part 2 - Explanation
 For this problem my approach for dynamic programming was using a single array to store the specific values for example when
