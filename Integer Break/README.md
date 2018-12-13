@@ -4,7 +4,7 @@
 
 dp[n] = dp[n+1]<br>
 dp[1] = 1<br>
-dp[i] = maxdp
+dp[i] = maxdp<br>
 maxdp = Math.max(Math.max(dp[j],j) * Math.max(i-j, dp[i-j]),dp[i)
 
 # Part 2 - Explanation
