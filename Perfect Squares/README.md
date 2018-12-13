@@ -9,3 +9,4 @@ mindp = Math.min(dp[i+j * j], dp[i] +1)
 
 
 # Part 2 - Explanation
+For this problem my approach to solve it in DP 
