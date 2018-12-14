@@ -3,8 +3,8 @@
 # Part 1 - Recursive Solution
 sumdp =0 <br>
 size= A.length <br>
-dp = dp[size]
-sumdp = if(A[i]-A[i-1] == A[i-1] - A[i-2]) sum+= 1 + dp[i-1]) <br>
+dp = dp[size] <br>
+sumdp = if(2* A[i-1] == A[i-1] - A[i-2]) sum+= 1 + dp[i-1]) <br>
 sum
 
 # Part 2- Explanation
