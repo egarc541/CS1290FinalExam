@@ -11,3 +11,6 @@
   dp[m][n]
   
   # Part 2 - Explanation
+  For this problem my approach to solve it with DP was getting the length of both strings use inside two different variables m and n.
+  Creating an 2D array to ensure the size of both strings were store. The first two varibles shown from dp ensure that each string is
+  checked and added. While the last varible checks if the strings are equal and if it not the case look for the min of both strings.
